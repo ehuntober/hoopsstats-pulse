@@ -1,0 +1,5 @@
+{
+  "name": "HoopsStats Scraper",
+  "description": "A professional basketball match scraper and renderer that extracts the last 5 games for teams and displays them in a standardized tabular format with score validation.",
+  "requestFramePermissions": []
+}
