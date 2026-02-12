@@ -1,6 +1,7 @@
 
 import React, { useState, useCallback, useMemo } from 'react';
-import { BatchInput } from './components/BatchInput';
+// import { BatchInput } from './components/BatchInput';
+import { BatchInput } from './components/batchInput';
 import { MatchTable } from './components/MatchTable';
 import { AnalyticsDashboard } from './components/AnalyticsDashboard';
 import { GeminiScraperService } from './services/geminiService';
